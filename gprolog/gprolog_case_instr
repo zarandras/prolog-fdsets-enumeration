@@ -1,0 +1,5 @@
+[gprolog_case6new].
+[gprolog_case6new_present].
+tell('cases5.txt').
+presentallclasses(a,b,c,d,e).
+told.
